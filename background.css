@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,700&display=swap");
+
+body
+{
+   background-color: #fff;
+   text-align: center;
+ }
+ 
+ .container {
+   margin-top: 10px;
+ }
+ 
+ .color-picker {
+   margin-bottom: 10px;
+ }
+ 
+ .preview {
+   width: 1050px;
+   height: 400px;
+   margin: 0 auto;
+   border: 1px solid #000;
+ }
+
+ button{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: #ffffff;
+    color: #391f1f;
+    border-radius: 40px;
+    border-color: black;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+ }
